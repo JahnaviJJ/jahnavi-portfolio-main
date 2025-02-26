@@ -11,7 +11,7 @@ export default function Contact() {
           About <span className='font-bold'>Me</span>
         </h2>
       </div>
-      <div className='container mb-10 flex max-w-6xl items-center gap-5'>
+      <div className='container mb-10 flex flex-col md:flex-row max-w-6xl items-center gap-5'>
         <div className='min-w-[40%]'>
           <Image
             src={author}

@@ -8,7 +8,7 @@ export default function Header() {
         <div>
           <Link
             href='/'
-            className='gradient-text font-work-sans text-2xl font-semibold'
+            className='gradient-text font-work-sans text-md lg:text-xl font-semibold'
           >
             {/* <Image
               className='flex-1 rounded-lg'
@@ -20,7 +20,7 @@ export default function Header() {
           </Link>
         </div>
 
-        <ul className='flex items-center gap-6 text-l font-bold text-muted-foreground sm:gap-10'>
+        <ul className='flex items-center gap-6 text-lg font-bold text-muted-foreground sm:gap-10'>
           <li className='transition-colors hover:text-foreground'>
             <Link href='/projects'>WORK</Link>
           </li>

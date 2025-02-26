@@ -11,7 +11,7 @@ const scrollToContent = () => {
 export default function Intro() {
   return (
     <section className='relative flex h-screen flex-col items-center justify-center pt-20 text-center'>
-      <h1 className='text-3xl font-light leading-normal text-muted-foreground lg:text-4xl'>
+      <h1 className='text-2xl font-light leading-normal text-muted-foreground lg:text-4xl'>
         I&apos;m
         <span className='font-semibold text-foreground no-underline'>
           {' '}
