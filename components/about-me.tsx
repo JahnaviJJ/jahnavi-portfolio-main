@@ -23,7 +23,7 @@ const AboutMeSection = () => {
         {/* Left Side - Text Content */}
         <div className='lg:w-2/3'>
           <h2 className='gradient-text mb-6 text-sm font-bold'>
-            A BIT ENTREATING
+            A BIT MORE ABOUT MYSELF
           </h2>
 
           <p className='mb-6 text-xl leading-relaxed text-muted-foreground'>
@@ -33,7 +33,7 @@ const AboutMeSection = () => {
             </strong>
             , a{' '}
             <strong className='font-semibold text-foreground'>
-              Full-Stack Developer
+              Software Engineer
             </strong>
             . With a passion for{' '}
             <strong className='text-foreground'>

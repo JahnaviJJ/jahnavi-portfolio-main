@@ -27,7 +27,7 @@ export default function Contact() {
             </strong>
             , a{' '}
             <strong className='font-semibold text-foreground'>
-              Full-Stack Developer
+            Software Engineer
             </strong>
             . With a passion for{' '}
             <strong className='text-foreground'>
