@@ -15,7 +15,7 @@ const experienceData = [
   },
   {
     company: 'Cloud Counselage',
-    startDate: 'Dec 2022',
+    startDate: 'Dec 2020',
     endDate: 'Jun 2021',
     designation: 'Android Developer Intern'
   }
